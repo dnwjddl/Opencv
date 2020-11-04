@@ -4,7 +4,7 @@ study using opencv
 ## Basic
 - 사진과 동영상으로 opencv를 사용하여 여러 명령어 작성
 - 웹캠을 이용한 명령어 작성
-
+ 
 ## FaceDetect
 - Mask 착용여부
 - 사진을 통하여 사람의 연령대와 성별 확인 
